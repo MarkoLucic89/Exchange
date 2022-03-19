@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/Exchange/app/src/main/res/drawable/background_rounded.xml" value="0.2405" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Exchange/app/src/main/res/drawable/background_text_view_rounded.xml" value="0.2405" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Exchange/app/src/main/res/drawable/ic_back.xml" value="0.203" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Exchange/app/src/main/res/drawable/ic_flag_rsd.xml" value="0.231" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Exchange/app/src/main/res/drawable/ic_forward.xml" value="0.203" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Exchange/app/src/main/res/drawable/ic_gbp_background.xml" value="0.231" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Exchange/app/src/main/res/drawable/ic_gbp_foreground.xml" value="0.231" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Exchange/app/src/main/res/drawable/rounded.xml" value="0.2405" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Exchange/app/src/main/res/layout/activity_currency_list.xml" value="0.36102564102564105" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Exchange/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Exchange/app/src/main/res/layout/rv_item_currency.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Exchange/app/src/main/res/mipmap-anydpi-v26/ic_dollar.xml" value="0.1255" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Exchange/app/src/main/res/mipmap-anydpi-v26/ic_dollar_round.xml" value="0.1255" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Exchange/app/src/main/res/mipmap-anydpi-v26/ic_gbp.xml" value="0.231" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Exchange/app/src/main/res/mipmap-anydpi-v26/ic_gbp_round.xml" value="0.231" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Exchange/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.231" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Exchange/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.231" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Exchange/app/src/main/res/mipmap-anydpi-v26/ic_try.xml" value="0.1255" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Exchange/app/src/main/res/mipmap-anydpi-v26/ic_try_round.xml" value="0.1255" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" default="true" project-jdk-name="13" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
